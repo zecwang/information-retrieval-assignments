@@ -1,0 +1,7 @@
+Text corpus:
+processed document count:  503473
+running time: 0.94 min
+
+Web corpus:
+processed document count:  198362
+running time: 0.52 min
